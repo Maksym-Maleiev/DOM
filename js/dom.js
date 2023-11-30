@@ -9,3 +9,6 @@ headingElement.innerHTML = newHeadingText;
 // Using JQUERY-method
 var newHeadingText = prompt("Please provide a new heading:");
 $("#main-heading").text(newHeadingText);
+
+// Develop new elements using JQUERY
+$("body").append("<p>This is a new paragraph</p>");
