@@ -14,6 +14,6 @@ $("body").append("<p>This is a new paragraph</p>");
 */
 
 for (var i = 0; i < 3; i++){
-  var hobby = promt("Tell me one of your hobbies!");
+  var hobby = prompt("Tell me one of your hobbies!");
   $("body").append("<p>" + hobby + "</p>");
 }
