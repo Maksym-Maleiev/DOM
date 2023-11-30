@@ -20,4 +20,5 @@ for (var i = 0; i < 3; i++){
 
 // Using JQUERY for animation
 /* $("h1").fadeOut(3000); */
+/* $("h1").text("This will fade out").fadeOut(3000); */
 $("h1").fadeOut(3000).fadeIn(3000);
