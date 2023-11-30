@@ -15,3 +15,6 @@ for (var i = 0; i < 3; i++){
   var hobby = prompt("Tell me one of your hobbies!");
   $("body").append("<p>" + hobby + "</p>");
 }
+
+// Using JQUERY for animation
+$("h1").fadeOut(3000);
