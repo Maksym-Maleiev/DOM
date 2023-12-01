@@ -22,7 +22,7 @@ for (var i = 0; i < 3; i++){
 /* $("h1").fadeOut(3000); */
 /* $("h1").text("This will fade out").fadeOut(3000); */
 /* $("h1").fadeOut(3000).fadeIn(3000); */
-$("h1").slideUp(1000).slideDown(1000);
+/* $("h1").slideUp(1000).slideDown(1000); */
 
 // Try it
 $("body").append("<p>Hello Max!</p>");
