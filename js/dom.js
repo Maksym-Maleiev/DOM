@@ -26,4 +26,4 @@ for (var i = 0; i < 3; i++){
 
 // Try it
 $("body").append("<p>How are you?</p>");
-$("h1").slideUp(1000).slideDown(1000);
+$("h1").slideUp(1000).slideDown(1000).fadeOut(2000).fadeIn(2000);
