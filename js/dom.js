@@ -25,4 +25,4 @@ for (var i = 0; i < 3; i++){
 /* $("h1").slideUp(1000).slideDown(1000); */
 
 // Try it
-$("body").append("<p>Hello Max!</p>");
+$("body").append("<p>How are you?</p>");
